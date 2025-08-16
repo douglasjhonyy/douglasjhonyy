@@ -15,7 +15,7 @@ Sobre Mim
 
  
  <div align="center">
-  <h3> 🤖 Linguagens e Tecnologias </h3> 
+  <h1> 🤖 Linguagens e Tecnologias </h1> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -45,7 +45,7 @@ Sobre Mim
 <img 
       align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="2000" 
     style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjhonyy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />

@@ -4,7 +4,7 @@ Sobre Mim
 
 💻 Trabalho: Busco minha primeira oportunidade na área de programação, com foco em desenvolvimento web
 
-🌱 Aprendendo: HTML, CSS, JAVASCRIPT....
+🌱 Aprendendo: HTML, CSS, JAVASCRIPT, FIGMA....
 
 🔧 Habilidades: Sou uma pessoa determinada, com facilidade de aprendizado e e sempre buscando a melhoria
 

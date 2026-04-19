@@ -14,11 +14,11 @@ Sobre Mim
 ##
 
  
- <div align="center">
+ <div style="display: inline_block">
   <h1> 🤖 Linguagens e Tecnologias </h1> 
   
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
   </div>

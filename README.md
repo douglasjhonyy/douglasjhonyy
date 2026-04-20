@@ -14,7 +14,7 @@ Sobre Mim
 ##
 
  
- <div align="center">
+ <div style="display: flex; gap: 10px;">
   <h1> 🤖 Linguagens e Tecnologias </h1> 
   
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

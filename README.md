@@ -14,7 +14,7 @@ Sobre Mim
 ##
 
  
- <div ">
+ <div style="display: inline_block">
   <h1> 🤖 Linguagens e Tecnologias </h1> 
   
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +23,7 @@ Sobre Mim
   <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
   </div>
   
- <!-- icones de linguagem
+ <!-- icones de linguagem style="display: flex; gap: 10px;"
   Aqui estão outros icon de outras linguagem
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

@@ -1,14 +1,50 @@
-## Olá, Eu sou Douglas jhony... ⚡
+# 👋 Olá! Eu sou Douglas Jhony
 
-Sobre Mim
+👨‍💻 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end em formação**
 
-💻 Trabalho: Busco minha primeira oportunidade na área de programação, com foco em desenvolvimento web
+Estou em transição para a área de tecnologia e atualmente busco minha primeira oportunidade profissional em desenvolvimento.
 
-🌱 Aprendendo: HTML, CSS, JAVASCRIPT, FIGMA....
+Tenho estudado e praticado **HTML, CSS e JavaScript**, criando projetos próprios para desenvolver minhas habilidades em desenvolvimento Front-end, responsividade e construção de interfaces.
 
-🔧 Habilidades: Sou uma pessoa determinada, com facilidade de aprendizado e e sempre buscando a melhoria
+## 🚀 Tecnologias
 
-🎯 Interesses: Estou migrando de área com muito interesse na tecnologia, buscando oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento web front-end.
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Figma
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Front-end
+* JavaScript
+* UI Design
+* Responsividade
+* Lógica de programação
+
+## 💻 Projetos em destaque
+
+🔹 **Página MF DOOM**
+Página web desenvolvida para praticar estruturação de páginas e estilização com HTML e CSS.
+
+🔹 **Página Cone Crew**
+Projeto de desenvolvimento Front-end criado para praticar construção e estilização de interfaces.
+
+🔹 **Calculadora IMC**
+Projeto desenvolvido para praticar lógica de programação e interação com elementos da página.
+
+🔹 **NEXUS**
+Projeto de interface desenvolvido para praticar construção visual e estilização com HTML e CSS.
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de **estágio em Desenvolvimento Front-end**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir com projetos reais.
+
+## 📫 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dougcode)
+
 
 📫 Contato: LinkedIn: https://www.linkedin.com/in/dougcode
 ##

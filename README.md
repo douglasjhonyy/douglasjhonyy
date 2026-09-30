@@ -19,7 +19,7 @@ Tenho estudado e praticado **HTML, CSS e JavaScript**, criando projetos próprio
 
 * Desenvolvimento Front-end
 * JavaScript
-* UI Design
+* UI UX Design
 * Responsividade
 * Lógica de programação
 
